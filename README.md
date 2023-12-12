@@ -12,16 +12,14 @@ I'm Nicola Canzonieri and I'm a CS student at Università di Udine.
 
 My passions are computer science in general, software development and I also like a lot music and motorsport.
 
----
-
 ### My most used languages and tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" width="30"/>
 </div>
 
 <!--
