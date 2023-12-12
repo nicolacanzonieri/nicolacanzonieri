@@ -37,6 +37,10 @@ I'm always looking for new challenges and opportunities to learn and grow. If yo
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" width="30"/>
 </div>
 
+---
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ddecxewat5jk5h2mcbne1a4p9&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=3c9a3e&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **nicolacanzonieri/nicolacanzonieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
