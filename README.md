@@ -6,8 +6,6 @@
   Hey There! 👋
 </h1>
 
----
-
 ## About Me:
 
 I'm Nicola Canzonieri and I'm a CS student at Università di Udine.
