@@ -18,13 +18,11 @@ My passions are computer science in general, software development and I also lik
 
 ### My most used languages:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="100"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="100"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="100"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="100"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="100"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="100"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" width="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="10"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="10"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="10"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="10"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" width="10"/>
 </div>
 
 <!--
