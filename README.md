@@ -8,9 +8,24 @@
 
 ## About Me:
 
-I'm Nicola Canzonieri and I'm a CS student at Università di Udine.
+I'm Nicola Canzonieri, a computer science student at the University of Udine. 
 
-My passions are computer science in general, software development and I also like a lot music and motorsport.
+I'm passionate about computer science, software programming, and video games. I also love music and motorsport in general.
+In my free time, I like to work on projects, such as video games or other software, or just listen to music. 
+
+I love challenges, but if something doesn't make sense to me or I don't understand it, you can rest assured that sooner or later I'll figure it out the problem.
+
+Here are some of my skills and interests:
+
+* Programming languages: I'm proficient in C#, C++, Java, and Python. I'm also learning JavaScript and Rust.
+* Software development: I have experience with a variety of software development methodologies.
+* Videogames: I'm an avid gamer and I've developed a few small games of my own.
+* Music: I play the piano sometimes and I love listening to all kinds of music.
+* Motorsport: I'm a big fan of Formula 1 and WEC and I'm always excited to watch the races.
+
+
+I'm always looking for new challenges and opportunities to learn and grow. If you have any projects or ideas that you think I might be interested in, please don't hesitate to reach out.
+
 
 ### My most used languages and tools:
 <div>
