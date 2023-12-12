@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://blush.design/api/download?shareUri=gOQmDIbiN6fKcRiU&c=Skin_0%7Ed08b5b&w=800&h=800&fm=png" width="100"/>
+  <img src="https://blush.design/api/download?shareUri=gOQmDIbiN6fKcRiU&c=Skin_0%7Eedb98a&w=800&h=800&fm=png" width="150"/>
 </div>
 
 <h1 align="center">
