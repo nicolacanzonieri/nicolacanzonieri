@@ -33,6 +33,7 @@ I'm always looking for new challenges and opportunities to learn and grow. If yo
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-plain.svg" width="30"/>
