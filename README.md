@@ -29,6 +29,7 @@ I'm always looking for new challenges and opportunities to learn and grow. If yo
 
 ### My most used languages and tools:
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="30"/>
