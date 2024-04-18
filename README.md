@@ -57,7 +57,7 @@ _No projects_
 ### Rust + Slint
 _No projects_
 
-## A little bit of story...
+## A little bit of my story...
 
 ### The foundations
 
