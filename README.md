@@ -70,6 +70,10 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
         <td><b>Retro GT:</b></td>
         <td><img src="https://geps.dev/progress/5"></td>
     </tr>
+    <tr>
+        <td><b>Star Legacy Enhanced:</b></td>
+        <td><img src="https://geps.dev/progress/0"></td>
+    </tr>
 </table>
 
 ### Python
