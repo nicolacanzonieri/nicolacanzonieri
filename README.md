@@ -10,7 +10,7 @@ In 2020, I established Sliced Games Studios, a moniker under which I realized vi
 In 2021 I released my first ever game: [Star Legacy](https://sliced-games-studios.itch.io/star-legacy) for Android.
 
 <p align="center">
-    <img width="600" height="350" src="./assets/star-legacy.png">
+    <img width="650" height="350" src="./assets/star-legacy.png">
 </p>
 
 In the same year I finished 7th in the 15th ScoreSpace Game Jam with [Star Rescue](https://sliced-games-studios.itch.io/star-rescue).
@@ -18,7 +18,13 @@ In the same year I finished 7th in the 15th ScoreSpace Game Jam with [Star Rescu
 In 2022 I announced the Five Nights at Freddy's Fan game: Under The Blankets. However first gameplay have been shown on [Game Jolt](https://gamejolt.com/p/under-the-blankets-first-devlog-game-page-open-rshpkdnk) only in 2023. To date this game represent 4 years of game production experience in Unity.
 
 <p align="center">
-    <img width="600" height="350" src="./assets/under-the-blankets.gif">
+    <img width="650" height="350" src="./assets/under-the-blankets.gif">
+</p>
+
+Under the Blankets is also the combination of all my capacities in: game development, music and soundtrack, 3D and 2D graphics. In fact the game is entirely made by me, from the top to bottom.
+
+<p align="center">
+    <img width="650" height="350" src="./assets/under-the-blankets-banner.png">
 </p>
 
 In 2023 I released the Under The Blankets prequel: [Under The Blankets Arcade](https://sliced-games-studios.itch.io/the-inventor) on [Itch.io](https://sliced-games-studios.itch.io/).
