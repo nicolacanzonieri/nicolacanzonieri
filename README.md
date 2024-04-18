@@ -3,15 +3,15 @@ I'm Nicola Canzonieri and I'm a computer science student at Udine, in Italy.
 
 ## A little bit of story...
 
-<p align="center">
-    <img width="600" height="350" src="./assets/star-legacy.png">
-</p>
-
 ### The foundations
 
 In 2020, I established Sliced Games Studios, a moniker under which I realized videogames using Unity Engine.
 
 In 2021 I released my first ever game: [Star Legacy](https://sliced-games-studios.itch.io/star-legacy) for Android.
+
+<p align="center">
+    <img width="600" height="350" src="./assets/star-legacy.png">
+</p>
 
 In the same year I finished 7th in the 15th ScoreSpace Game Jam with [Star Rescue](https://sliced-games-studios.itch.io/star-rescue).
 
