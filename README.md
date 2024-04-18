@@ -1,7 +1,7 @@
 # About me!
 I'm Nicola Canzonieri and I'm a computer science student at Udine, in Italy.
 
-## Progress bars
+## Progress
 
 ### Unity
 <table>
@@ -34,8 +34,23 @@ I'm Nicola Canzonieri and I'm a computer science student at Udine, in Italy.
         <td><img src="https://geps.dev/progress/80"></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td><b>more incoming...</b></td>
+        <td><img src="https://geps.dev/progress/0"></td>
+    </tr>
+</table>
+
+### Flutter + Dart
+_No projects_
+
+### Java
+<table>
+    <tr>
+        <td><b>ascii-snake:</b></td>
+        <td><img src="https://geps.dev/progress/85"></td>
+    </tr>
+    <tr>
+        <td><b>more incoming...</b></td>
+        <td><img src="https://geps.dev/progress/0"></td>
     </tr>
 </table>
 
