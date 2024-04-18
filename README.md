@@ -1,10 +1,10 @@
 # About me!
-I'm Nicola Canzonieri, a computer science student at the University of Udine. 
+I'm **Nicola Canzonieri**, a **computer science student** at the **University of Udine**. 
 
-I'm passionate about computer science, software programming, and video games. I also love music and motorsport in general.
-In my free time, I like to work on projects, such as video games or other software, or just listen to music. 
+I'm passionate about **computer science**, **software programming**, and **videogames**. I also love **music** and **motorsport** in general.
+In my free time, I like to work on projects, such as videogames or other software, or just listen to music. 
 
-I love challenges, but if something doesn't make sense to me or I don't understand it, you can rest assured that sooner or later I'll figure it out the problem.
+I love **challenges**, but if something doesn't make sense to me or I don't understand it, you can rest assured that sooner or later **I'll figure it out** the problem.
 
 ## My skills
 
