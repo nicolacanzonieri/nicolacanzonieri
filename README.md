@@ -21,7 +21,7 @@ In 2022 I announced the Five Nights at Freddy's Fan Game: [**Under The Blankets*
     <img width="650" height="350" src="./assets/under-the-blankets.gif">
 </p>
 
-Under the Blankets is also the combination of all my capacities in: **game development**, **SFX and soundtrack**, **3D and 2D graphics**. In fact the game is entirely made by me, from the top to bottom.
+Under the Blankets is also the combination of all my skills in: **game development**, **SFX and soundtrack**, **3D and 2D graphics**. In fact the game is entirely made by me, from the top to bottom.
 
 <p align="center">
     <img width="650" height="350" src="./assets/under-the-blankets-banner.png">
