@@ -31,7 +31,7 @@ I'm Nicola Canzonieri and I'm a computer science student at Udine, in Italy.
 <table>
     <tr>
         <td><b>access:</b></td>
-        <td><img src="https://geps.dev/progress/80"></td>
+        <td><img src="https://geps.dev/progress/60"></td>
     </tr>
     <tr>
         <td><b>more incoming...</b></td>
@@ -53,6 +53,9 @@ _No projects_
         <td><img src="https://geps.dev/progress/0"></td>
     </tr>
 </table>
+
+### Rust + Slint
+_No projects_
 
 ## A little bit of story...
 
