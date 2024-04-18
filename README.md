@@ -79,9 +79,9 @@ In 2022 I announced the Five Nights at Freddy's Fan Game: [**Under The Blankets*
 
 Under the Blankets is also the combination of all my skills in: **game development**, **SFX and soundtrack**, **3D and 2D graphics**. As a matter of fact this game is entirely made by me, from top to bottom.
 
-<p align="center">
+<!-- <p align="center">
     <img width="650" height="350" src="./assets/under-the-blankets-banner.png">
-</p>
+</p> -->
 
 In 2023 I released Under The Blankets' prequel: [**Under The Blankets Arcade**](https://sliced-games-studios.itch.io/the-inventor) on [Itch.io](https://sliced-games-studios.itch.io/).
 
