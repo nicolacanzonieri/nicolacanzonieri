@@ -1,5 +1,25 @@
 # About me!
-I'm Nicola Canzonieri and I'm a computer science student at Udine, in Italy.
+I'm Nicola Canzonieri, a computer science student at the University of Udine. 
+
+I'm passionate about computer science, software programming, and video games. I also love music and motorsport in general.
+In my free time, I like to work on projects, such as video games or other software, or just listen to music. 
+
+I love challenges, but if something doesn't make sense to me or I don't understand it, you can rest assured that sooner or later I'll figure it out the problem.
+
+## My skills
+
+### Most used
+
+
+
+### Used in the past
+
+## Contact me
+
+<p>
+    <a href="https://sites.google.com/view/slicedgamestudios"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+    <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
 ## Progress
 
