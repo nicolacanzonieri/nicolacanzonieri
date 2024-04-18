@@ -1,6 +1,44 @@
 # About me!
 I'm Nicola Canzonieri and I'm a computer science student at Udine, in Italy.
 
+## Progress bars
+
+### Unity
+<table>
+    <tr>
+        <td><b>Under The Blankets:</b></td>
+        <td><img src="https://geps.dev/progress/40"></td>
+    </tr>
+    <tr>
+        <td><b>Under The Blankets Arcade:</b></td>
+        <td><img src="https://geps.dev/progress/100"></td>
+    </tr>
+    <tr>
+        <td><b>Aura v2:</b></td>
+        <td><img src="https://geps.dev/progress/90"></td>
+    </tr>
+    <tr>
+        <td><b>Lucid:</b></td>
+        <td><img src="https://geps.dev/progress/20"></td>
+    </tr>
+    <tr>
+        <td><b>Retro GT:</b></td>
+        <td><img src="https://geps.dev/progress/5"></td>
+    </tr>
+</table>
+
+### Python
+<table>
+    <tr>
+        <td><b>access:</b></td>
+        <td><img src="https://geps.dev/progress/80"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
 ## A little bit of story...
 
 ### The foundations
