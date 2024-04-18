@@ -85,7 +85,16 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
 </table>
 
 ### Flutter + Dart
-_No projects_
+<table>
+    <tr>
+        <td><b>Aura v3: </b></td>
+        <td><img src="https://geps.dev/progress/0"></td>
+    </tr>
+    <tr>
+        <td><b>more incoming...</b></td>
+        <td><img src="https://geps.dev/progress/0"></td>
+    </tr>
+</table>
 
 ### Java
 <table>
