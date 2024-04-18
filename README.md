@@ -35,6 +35,6 @@ While my passion for gaming remains, in 2024 I've discovered a new calling in **
 
 ### Other projects and opportunities
 
-During my highschool period I worked on various space and astronomy based simulations with Unity.
+During my highschool period I worked on various **space and astronomy based simulations** with Unity.
 
 In 2023 I joined the **UNIUD E-Racing Team**, the Formula SAE team of the **University of Udine**. During the first year I helped the team create an updated user interface for a telemetry software. Joining the team is probably the greatest opportunity I have had in my career because I combined my passion for software development with the Motorsport culture, which is another great passion of mine.
