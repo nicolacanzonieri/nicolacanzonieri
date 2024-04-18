@@ -63,7 +63,7 @@ _No projects_
 
 In 2020, I established **Sliced Games Studios**, a moniker under which I realized videogames using **Unity Engine**.
 
-In 2021 I released my first ever game: [**Star Legacy**](https://sliced-games-studios.itch.io/star-legacy) for Android.
+In 2021 I released my first ever game: [**Star Legacy**](https://sliced-games-studios.itch.io/star-legacy) for Android with the collaboration of an old friend [Broken Wings](https://www.youtube.com/@brokenwings2931).
 
 <p align="center">
     <img width="650" height="350" src="./assets/star-legacy.png">
