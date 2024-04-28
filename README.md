@@ -83,6 +83,14 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
         <td><img src="https://geps.dev/progress/60"></td>
     </tr>
     <tr>
+        <td><b>dfa-la:</b></td>
+        <td><img src="https://geps.dev/progress/100"></td>
+    </tr>
+    <tr>
+        <td><b>ultimate-automaton-la:</b></td>
+        <td><img src="https://geps.dev/progress/33"></td>
+    </tr>
+    <tr>
         <td><b>more incoming...</b></td>
         <td><img src="https://geps.dev/progress/0"></td>
     </tr>
