@@ -51,11 +51,11 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
 ### Unity
 <table>
     <tr>
-        <td><b>Under The Blankets:</b></td>
+        <td><b><a href="https://gamejolt.com/games/undertheblankets/838705">Under The Blankets</a>:</b></td>
         <td><img src="https://geps.dev/progress/40"></td>
     </tr>
     <tr>
-        <td><b>Under The Blankets Arcade:</b></td>
+        <td><b><a href="https://gamejolt.com/games/utb_theinventor/834392">Under The Blankets Arcade</a>:</b></td>
         <td><img src="https://geps.dev/progress/100"></td>
     </tr>
     <tr>
@@ -79,11 +79,11 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
 ### Python
 <table>
     <tr>
-        <td><b>access:</b></td>
+        <td><b><a href="https://github.com/nicolacanzonieri/access">access</a>:</b></td>
         <td><img src="https://geps.dev/progress/60"></td>
     </tr>
     <tr>
-        <td><b>dfa-la:</b></td>
+        <td><b><a href="https://github.com/nicolacanzonieri/dfa-la">dfa-la</a>:</b></td>
         <td><img src="https://geps.dev/progress/100"></td>
     </tr>
     <tr>
