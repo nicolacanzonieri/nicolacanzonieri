@@ -88,7 +88,7 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
     </tr>
     <tr>
         <td><b>ultimate-automaton-la:</b></td>
-        <td><img src="https://geps.dev/progress/33"></td>
+        <td><img src="https://geps.dev/progress/30"></td>
     </tr>
     <tr>
         <td><b>more incoming...</b></td>
