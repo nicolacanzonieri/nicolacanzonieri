@@ -25,6 +25,12 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </p>
 
+### Learning
+
+<p>
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+</p>
+
 ## Socials
 
 <p>
