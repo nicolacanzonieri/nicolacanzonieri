@@ -53,7 +53,7 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
 
 ## Progress
 
-### Unity
+### Unity 📦
 <table>
     <tr>
         <td><b><a href="https://gamejolt.com/games/undertheblankets/838705">Under The Blankets</a>:</b></td>
@@ -81,7 +81,7 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
     </tr>
 </table>
 
-### Python
+### Python 🐍
 <table>
     <tr>
         <td><b><a href="https://github.com/nicolacanzonieri/access">access</a>:</b></td>
@@ -101,7 +101,7 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
     </tr>
 </table>
 
-### Flutter + Dart
+### Flutter + Dart ⚒
 <table>
     <tr>
         <td><b>Aura v3: </b></td>
@@ -113,7 +113,7 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
     </tr>
 </table>
 
-### Java
+### Java ☕
 <table>
     <tr>
         <td><b>ascii-snake:</b></td>
@@ -125,7 +125,7 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
     </tr>
 </table>
 
-### Rust + Slint
+### Rust + Slint 🦀
 _No projects_
 
 ## A little bit of my story...
