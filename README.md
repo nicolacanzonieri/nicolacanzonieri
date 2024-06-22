@@ -1,8 +1,9 @@
 # About me!
-I'm **Nicola Canzonieri**, a **computer science student** at the **University of Udine**. 
+
+I'm **Nicola Canzonieri**, a **computer science student** at the **University of Udine**.
 
 I'm passionate about **computer science**, **software programming**, and **videogames**. I also love **music** and **motorsport** in general.
-In my free time, I like to work on projects, such as videogames or other software, or just listen to music. 
+In my free time, I like to work on projects, such as videogames or other software, or just listen to music.
 
 I love **challenges**, but if something doesn't make sense to me or I don't understand it, you can rest assured that sooner or later **I'll figure it out** the problem.
 
@@ -44,6 +45,7 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
 </p>
 
 ## My most used tools
+
 <p>
     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -54,6 +56,7 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
 ## Progress
 
 ### Unity 📦
+
 <table>
     <tr>
         <td><b><a href="https://gamejolt.com/games/undertheblankets/838705">Under The Blankets</a>:</b></td>
@@ -82,6 +85,7 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
 </table>
 
 ### Python 🐍
+
 <table>
     <tr>
         <td><b><a href="https://github.com/nicolacanzonieri/access">access</a>:</b></td>
@@ -102,6 +106,7 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
 </table>
 
 ### Flutter + Dart ⚒
+
 <table>
     <tr>
         <td><b>Aura v3: </b></td>
@@ -114,6 +119,7 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
 </table>
 
 ### Java ☕
+
 <table>
     <tr>
         <td><b>ascii-snake:</b></td>
@@ -126,6 +132,7 @@ I love **challenges**, but if something doesn't make sense to me or I don't unde
 </table>
 
 ### Rust + Slint 🦀
+
 _No projects_
 
 ## A little bit of my story...
