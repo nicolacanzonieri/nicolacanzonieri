@@ -136,9 +136,10 @@ In 2020, I established **Sliced Games Studios**, a moniker under which I realize
 
 In 2021 I released my first ever game: [**Star Legacy**](https://sliced-games-studios.itch.io/star-legacy) for Android with the collaboration of an old friend [Broken Wings](https://www.youtube.com/@brokenwings2931).
 
-<p align="center">
+<!-- <p align="center">
     <img width="650" height="350" src="./assets/star-legacy.png">
-</p>
+</p> -->
+(assets/star-legacy.png)
 
 In the same year I finished 7th in the **15th ScoreSpace Game Jam** with [**Star Rescue**](https://sliced-games-studios.itch.io/star-rescue).
 
