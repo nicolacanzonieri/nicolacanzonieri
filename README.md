@@ -139,7 +139,7 @@ In 2021 I released my first ever game: [**Star Legacy**](https://sliced-games-st
 <!-- <p align="center">
     <img width="650" height="350" src="./assets/star-legacy.png">
 </p> -->
-(assets/star-legacy.png)
+![Star Legacy banner](assets/star-legacy.png)
 
 In the same year I finished 7th in the **15th ScoreSpace Game Jam** with [**Star Rescue**](https://sliced-games-studios.itch.io/star-rescue).
 
