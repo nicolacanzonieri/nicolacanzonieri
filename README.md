@@ -7,6 +7,8 @@ In my free time, I like to work on projects, such as videogames or other softwar
 
 I love **challenges**, but if something doesn't make sense to me or I don't understand it, you can rest assured that sooner or later **I'll figure it out** the problem.
 
+Currently in love with Ferrari
+
 ## My skills
 
 ### Most used
