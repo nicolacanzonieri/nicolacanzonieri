@@ -98,6 +98,10 @@ Currently in love with Ferrari
         <td><img src="https://geps.dev/progress/100"></td>
     </tr>
     <tr>
+        <td><b><a href="https://github.com/nicolacanzonieri/crypto-py/tree/develop">crypto-py</a></b></td>
+        <td><img src="https://geps.dev/progress/70"></td>
+    </tr>
+    <tr>
         <td><b>ultimate-automaton-la:</b></td>
         <td><img src="https://geps.dev/progress/30"></td>
     </tr>
