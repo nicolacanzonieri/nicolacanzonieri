@@ -167,7 +167,7 @@ In 2023 I released Under The Blankets' prequel: [**Under The Blankets Arcade**](
 
 ### Change of direction...
 
-While my passion for game development remains, in 2024 I've discovered a new calling in **general-purpose software development**. In particular these new projects are focused on helping users achieve a **better lifestyle** and **mental health**. Parts of this transition are **Aura** for Android and **Lucid** for the web. Because of this change of direction I renamed Sliced Games Studios into **Halo Productions**.
+While my passion for game development remains, in 2024 I've discovered a new calling in **general-purpose software development**. In particular these new projects are focused on helping users achieve a **better lifestyle** and **mental health**. Parts of this transition are **Aura** for Android and **Lucid** for the web.
 
 ### Other projects and opportunities
 
