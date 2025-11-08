@@ -23,7 +23,7 @@ My foundational experience includes **software development** education and **Uni
 My portfolio includes critical embedded solutions developed for the **Formula Student Team** and consumer-focused applications for **digital well-being**.
 
 ### 1. "Lucid"
-* **Vision:** A personal development and productivity application designed to combat distraction and overwhelm by integrating **psychology, mental wellness, and seamless functionality**.
+* **Description:** A personal development and productivity application designed to combat distraction and overwhelm by integrating **psychology, mental wellness, and seamless functionality**.
 
 ### 2. "Mercury" Telemetry System - UI Development (Rust / Slint)
 * **Description:** Designed and implemented the real-time graphical user interface (GUI) for the vehicle's telemetry system, ensuring race engineers had an **immediate and clear data overview** for optimizing post-session decisions.
