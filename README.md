@@ -9,7 +9,7 @@
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | Rust, C, Python, TypeScript |
-| **Frontend/UI** | React, JavaScript, Unity (Game Dev) |
+| **Frontend/UI** | React, JavaScript, HTML, CSS, Unity (Game Dev) |
 | **Low-Level** | Arduino, Firmware Development, Telemetry Systems |
 | **Tools** | Git, GitHub |
 
