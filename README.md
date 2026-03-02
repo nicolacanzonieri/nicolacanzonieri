@@ -26,7 +26,7 @@
 
 ### 🎯 Current Focus & Vision
 
-I am currently pivoting my technical expertise toward **Human-Centric Software**. My goal is to develop high-performance applications that enhance:
+I am currently pivoting my technical expertise toward **Human-Centric Software**. My goal is to develop useful applications that enhance:
 * **Health & Wellness**
 * **Personal Productivity**
 * **Organizational Systems**
