@@ -31,7 +31,7 @@ I am currently pivoting my technical expertise toward **Human-Centric Software**
 * **Personal Productivity**
 * **Organizational Systems**
 
-I believe that great software should be as precise, effective, intuitive and well-designed.
+I believe that great software should be precise, effective, intuitive and well-designed.
 
 ---
 
